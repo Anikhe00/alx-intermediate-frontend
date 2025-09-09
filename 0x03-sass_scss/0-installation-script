@@ -1,0 +1,11 @@
+Install with Homebrew (Mac-specific)
+
+```
+brew install sass/sass/sass
+```
+
+Check if it has been installed
+
+```
+sass --version
+```
